@@ -1,0 +1,7 @@
+Let's ay you have got an idea to develop a new innovative gadget(a pen size printer, [imaginary gadget of course]) which will let anyone print the pages on the go at a very low cost. The idea soundds fantastic but you need initial capital to support he production as well as your ongoing research. You wnt to some invetor but the yturned you down badly. But you know thiat this idea is worth millions of dollars & public willl like it for sure.
+You realize that you an crowdource the fund from public. Here, you haee multiple options like kickstarter, indigogo etch who are third party to facilitate your crowd fund raising. What if you don't want to depend on them as wel an want to do it by driectly dealing with the thousdsa of tpeople directly wihtout any problem. 
+
+Of course dealing with thousands of people, their payment security and keepping trck of every single contirbution brings another level of changllenge for you. Blocchain dccn solve all of lsuch problems in a frction of your efforx and give everyone a trancperarncy f7 turs inyour fuhdn rraising processs. 
+We have shown here  how this all can be done using Ethereum plateform.
+
+Type 1: simple version where you 
